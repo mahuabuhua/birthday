@@ -7,8 +7,8 @@ window.addEventListener('load', () => {
     const month = today.getMonth() + 1; // 月份范围：1-12  
     const day = today.getDate(); // 日期范围：1-31  
 
-    // 检查是否是11月13日  
-    if (month === 11 && day === 13) {
+    // 检查是否是11月16日  
+    if (month === 11 && day === 16) {
         Swal.fire({
             title: '此乃是麻花全心投入、亲力亲为为酸奶精心打造而成。它蕴含着麻花的无限创意与祝福。你是否已做好准备迎接这份独特的祝福了吗！！！',
 
